@@ -1,6 +1,6 @@
 # Moovy
 
-TODO: Write a gem description
+API wrapper for OnConnect
 
 ## Installation
 
@@ -18,8 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+Moovy::Movie.search('Frozen')
 
+```
 ## Contributing
 
 1. Fork it
