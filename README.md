@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 
 ```
-Moovy::Movie.search('Frozen')
+Moovy::Movie.search('11102')
 
 ```
 ## Contributing
