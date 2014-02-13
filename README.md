@@ -19,7 +19,9 @@ Or install it yourself as:
 ## Usage
 
 ```
-Moovy::Movie.search('11102')
+Search movies that are playing locally in a given radius:
+
+  Moovy::Movie.search('11102', '2014-02-14', '5')
 
 ```
 ## Contributing
